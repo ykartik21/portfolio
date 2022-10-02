@@ -1,0 +1,34 @@
+.footer{
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    border-top: 2px solid ;
+    border-image: linear-gradient(to right, #d35432 , #bb0072  );
+    border-image-slice: 1;
+    background-color: #111;
+
+
+
+
+
+    
+    
+
+    
+
+    
+  
+}
+
+.footer h1{
+    font-weight: 100;
+    font-size: 20px;
+    background-image: -webkit-linear-gradient(0deg, #d35432 0%, #bb0072 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-fill-color: transparent;
+    -webkit-text-fill-color: transparent;
+}
